@@ -1,0 +1,289 @@
+﻿Exposure,ASX Code,Type,iNAV,Benchmark,MER%,Outperf' fee,Admission Date,Chart,Announcements
+Equity - Australia,,,,,,,,,
+BetaShares Australia 200 ETF,A200,ETF,Yes,Track Solactive Australia 200 Index,0.07,No,8-May-18,,Recent
+,,,,,,,,,
+,,,ASX: YA20,,,,,,
+iShares S&P/ASX 20 ETF,ILC,ETF,Yes,Track S&P/ASX 20 Accumulation Index ,0.24,No,9-Dec-10,,Recent
+iShares  Core S&P/ASX 200 ETF,IOZ,ETF,Yes,Track S&P/ASX 200 Accumulation Index,0.09,No,9-Dec-10,,Recent
+VanEck Vectors Australian Equal Weight ETF,MVW,ETF,Yes,Track MVIS Australia Equal Weight Index,0.35,No,6-Mar-14,,Recent
+,,,,,,,,,
+,,,ASX: YMVW,,,,,,
+BetaShares FTSE RAFI Australia 200 ETF,QOZ,ETF,Yes,Track FTSE RAFI Australia 200,0.4,No,11-Jul-13,,Recent
+,,,,,,,,,
+,,,ASX: YQOZ,,,,,,
+SPDR S&P/ASX 200 Fund,STW,ETF,Yes,Track S&P/ASX 200 Index,0.19,No,27-Aug-01,,Recent
+,,,,,,,,,
+,,,ASX: YSTW,,,,,,
+SPDR S&P/ASX 50 Fund,SFY,ETF,Yes,Track S&P/ASX 50 Index,0.286,No,27-Aug-01,,Recent
+,,,,,,,,,
+,,,ASX: YSFY,,,,,,
+Vanguard Australian Shares Index ETF,VAS,ETF,Yes,S&P/ASX 300,0.1,No,8-May-09,,Recent
+Vanguard MSCI Australian Large Companies Index ETF ,VLC,ETF,Yes,MSCI Australian Shares Large Cap Index,0.2,No,26-May-11,,Recent
+,,,,,,,,,
+BetaShares Australian Ex-20 Portfolio Diversifier ETF,EX20,ETF,Yes,Tracks NASDAQ Australia Completion Cap Index,0.25,No,7-Oct-16,,Recent
+,,,,,,,,,
+,,,ASX:YEX2,,,,,,
+eInvest Future Impact Small Caps Fund (Managed Fund),IMPQ,MF,Yes,Outperform S&P/ASX Small Ordinaries Accumulation Index,0.89,Yes,23-May-19,,Recent
+iShares S&P/ASX Small Ordinaries ETF,ISO,ETF,Yes,Tracks S&P/ASX Small Ordinaries Accumulation Index ,0.55,No,9-Dec-10,,Recent
+K2 Australian Small Cap Fund (Hedge Fund),KSM,MF,Yes,,2.05,Yes,Dec-15,,Recent
+VanEck Vectors S&P/ASX MidCap ETF,MVE,ETF,Yes,Track S&P/ASX MidCap 50 Index,0.45,No,16-Oct-13,,Recent
+,,,,,,,,,
+,,,ASX:YMVE,,,,,,
+VanEck Vectors Small Companies Masters ETF,MVS,ETF,Yes,Track MVIS Australia Small-Cap Dividend Payers Index,0.49,No,28-May-15,,Recent
+,,,,,,,,,
+,,,ASX:YMVS,,,,,,
+SPDR S&P/ASX Small Ordinaries Fund,SSO,ETF,,Track S&P/ASX Small Ordinaries Index ,0.5,No,13-Apr-11,,Recent
+,,,,,,,,,
+,,,Yes,,,,,,
+,,,,,,,,,
+,,,ASX:YSSO,,,,,,
+Vanguard MSCI Australian Small Companies Index ETF,VSO,ETF,Yes,Track MSCI Australian Shares Small Cap Index,0.3,No,10-May-11,,Recent
+Equity - Australian Sectors,,,,,,,,,
+BetaShares S&P/ASX Australian Technology ETF,ATEC,ETF,Yes,Tracks S&P/ASX All Technology Index,0.48,No,5-Mar-20,,Recent
+,,,,,,,,,
+,,,ASX:YATE,,,,,,
+VanEck Vectors Australian Banks ETF,MVB,ETF,Yes,Track MVIS Australian Banks Index,0.28,No,16-Oct-13,,Recent
+,,,,,,,,,
+,,,ASX:YMVB,,,,,,
+VanEck Vectors Australian Resources ETF,MVR,ETF,Yes,Track MVIS Australian Energy & Mining Index,0.35,No,16-Oct-13,,Recent
+,,,,,,,,,
+,,,ASX:YMVR,,,,,,
+SPDR S&P/ASX 200 Financials ex A-REIT Fund,OZF,ETF,Yes,Track S&P/ASX 200 Financials Ex A-REIT Index ,0.4,No,13-Apr-11,,Recent
+,,,,,,,,,
+,,,ASX:YOZF,,,,,,
+SPDR S&P/ASX 200 Resources Fund,OZR,ETF,Yes,Track S&P/ASX 200 Resources Index,0.4,No,13-Apr-11,,Recent
+,,,,,,,,,
+,,,ASX:YOZR,,,,,,
+BetaShares Australian Financials Sector ETF ,QFN,ETF,Yes,Track Solactive Australia Financials Ex-REITS Sector Index ,0.34,No,15-Dec-10,,Recent
+,,,,,,,,,
+,,,ASX:YQFN,,,,,,
+BetaShares Australian Resources Sector ETF,QRE,ETF,Yes,Track Solactive Australia Resources Sector Index,0.34,No,15-Dec-10,,Recent
+,,,ASX:YQRE,,,,,,
+Equity - Australia Strategy,,,,,,,,,
+Airlie Australian Share Fund (Managed Fund),AASF,MF,Yes,-,0.78,No,10-Jun-20,,Recent
+iShares Edge MSCI Australia Multifactor ETF,AUMF,ETF,No,Track MSCI Australia IMI Diversified Multiple-Factor (AUD) Index,0.3,No,14-Oct-16,,Recent
+BetaShares Managed Risk Australian Share Fund (Managed Fund),AUST,MF,Yes,Benchmark against S&P/ASX 200 Index,0.49,No,10-Nov-15,,Recent
+BetaShares Australian Equities Strong Bear (Hedge Fund),BBOZ,MF,Yes,Benchmark against S&P/ASX 200 Accumulation Index,1.38,No,20-Apr-15,,Recent
+,,Inverse/,,,,,,,
+,,Leverage,,,,,,,
+BetaShares Australian Equities Bear Hedge Fund ,BEAR,MF,Yes,Benchmark against S&P/ASX 200 Accumulation Index,1.38,No,9-Jul-12,,Recent
+,,Inverse,,,,,,,
+eInvest Income Generator Fund (Managed Fund),EIGA,MF,Yes,Outperform S&P/ASX 300 Franking Credit Adjusted Daily TR Index,0.8,No,23-May-19,,Recent
+BetaShares Legg Mason Equity Income Fund (Managed Fund),EINC,MF,Yes,Outperform S&P/ASX 200 Index & CPI (inflation),0.85,No,19-Feb-18,,Recent
+BetaShares Australian Sustainability Leaders ETF,FAIR,ETF,Yes,Track Nasdaq Future Australian Sustainability Leaders Index,0.49,No,29-Nov-17,,Recent
+,,,,,,,,,
+,,,ASX:YFAI,,,,,,
+VanEck Vectors MSCI Australian Sustainable Equity ETF,GRNV,ETF,Yes,Track MSCI Australia IMI Select SRI Screened Index ,0.35,No,2-May-16,,Recent
+,,,,,,,,,
+,,,ASX:YGRN,,,,Strategy changed 25 June 2019,,
+BetaShares Geared Australian Equity Fund (Hedge Fund),GEAR,MF,Yes,Benchmark against S&P/ASX 200 Index,0.8,No,2-May-14,,Recent
+,,Leverage,,,,,,,
+BetaShares Australian Dividend Harvester Fund (Managed Fund),HVST,MF,Yes,Benchmark against S&P/ASX 200 Index,0.9,No,3-Nov-14,,Recent
+iShares S&P/ASX Dividend Opportunities ETF,IHD,ETF,Yes,Track S&P/ASX Dividend Opportunities Accumulation Index,0.3,No,9-Dec-10,,Recent
+Intelligent Investor Ethical Share Fund (Managed Fund),INES,MF,Yes,-,0.97,No,12-Jun-19,,Recent
+Intelligent Investor Australian Equity Income Fund (Managed Fund),INIF,MF,Yes,-,0.97,No,19-Jun-18,,Recent
+iShares Edge MSCI Australia Minimum Volatility ETF,MVOL,ETF,No,Track MSCI Australia IMI Select Minimum Volatility Index,0.3,No,14-Oct-16,,Recent
+Russell Australian Responsbile Investment ETF,RARI,ETF,Yes,Track Russell Australia ESG High Dividend Index,0.45,No,8-Apr-15,,Recent
+,,,,,,,,,
+,,,ASX:YRAR,,,,,,
+Russell High Dividend Australian Shares ETF,RDV,ETF,Yes,Track the Russell Australia High Dividend Index,0.34,No,14-May-10,,Recent
+,,,,,,,,,
+,,,ASX:YRDV,,,,,,
+SelfWealth SMSF Leaders Index,SELF,ETF,No,-,0.88,No,12-Nov-19,,Recent
+BetaShares Australian Small Companies Select Fund (managed fund),SMLL,MF,Yes,Outperform S&P/ASX Small Ordinaries Accumulation Index,0.39,No,11-Apr-17,,Recent
+Switzer Dividend Growth Fund (Managed Fund),SWTZ,MF,Yes,-,0.89,No,24-Feb-17,,Recent
+SPDR MSCI Australia Select High Dividend Yield Fund,SYI,ETF,Yes,Track MSCI Australian Select High Dividend Yield Index,0.35,No,29-Sep-10,,Recent
+,,,,,,,,,
+,,,ASX:YSYI,,,,,,
+Vanguard Australian Sahres High Yield ETF,VHY,ETF,Yes,Track FTSE Australian High Dividend Yield Index,0.25,No,26-May-11,,Recent
+BetaShares Australian Top 20 Equity Yield Maximiser Fund,YMAX,MF,Yes,Benchmark against Solactive Australia 20 Index,0.76,No,26-Nov-12,,Recent
+,,,,,,,,,
+,,covered call options,,,,,,,
+ETFS S&P/ASX 300 High Yield Plus ETF,ZYAU,ETF,No,S&P/ASX 300 Shareholder Yield Index,0.35,No,12-Jun-15,,Recent
+Equity - Global,,,,,,,,,
+Antipodes Global Shares (Quoted Managed Fund),AGX1,MF,Yes,Outperform MSCI All Country World Net Index,1.1,Yes,7-Nov-18,,Recent
+ETFS EURO STOXX 50 ETF,ESTX,ETF,No,Track EURO STOXX 50® Index,0.35,No,21-Jul-16,,Recent
+BetaShares FTSE 100 ETF,F100,ETF,No,Track FTSE 100 Index,0.45,No,16-Jul-19,,Recent
+BetaShares Europe ETF - Currency Hedged,HEUR,ETF,No,Track S&P Eurozone Exporters Hedged AUD Index,0.56,No,12-May-16,,Recent
+iShares Europe ETF,IEU,ETF,No,Track S&P Europe 350TM Index,0.6,No,10-Oct-07,,Recent
+iShares Global 100 AUD Hedged ETF,IHOO,ETF,No,Track S&P Global 100TM Hedged Australian Dollar Index,0.43,No,18-Dec-14,,Recent
+iShares S&P 500 AUD Hedged ETF,IHVV,ETF,No,Track S&P 500 Hedged Australian Dollar Index,0.1,No,18-Dec-14,,Recent
+iShares Core MSCI World All Cap AUD Hedged ETF,IHWL,ETF,No,MSCI World Investable Market Index (Net TR) 100% Heged to AUD,0.12,No,28-Apr-16,,Recent
+iShares S&P Mid-Cap ETF,IJH,ETF,No,Track S&P Midcap 400 Index,0.07,No,10-Oct-07,,Recent
+iShares MSCI Japan ETF,IJP,ETF,No,Track MSCI Japan Index ,0.47,No,10-Oct-07,,Recent
+iShares S&P Small-Cap ETF,IJR,ETF,No,Track S&P Small-Cap 600 Index,0.07,No,10-Oct-07,,Recent
+iShares Global 100 ETF,IOO,ETF,No,Track S&P Global 100 Index,0.4,No,10-Oct-07,,Recent
+iShares MSCI EAFE ETF,IVE,ETF,No,Track MSCI EAFE Index,0.31,No,10-Oct-07,,Recent
+iShares S&P 500 ETF,IVV,ETF,No,Track S&P 500 Index,0.04,No,10-Oct-07,,Recent
+iShares Core MSCI World All Cap ETF,IWLD,ETF,No,Track MSCI World Investable Market Index,0.09,No,28-Apr-16,,Recent
+Magellan Global Equities Fund (Managed Fund),MGE,MF,Yes,Outperform MSCI World Net Total Return Index (AUD),1.35,Yes,5-Mar-15,,Recent
+Magellan Global Equities Fund Currency Hedged (Managed Fund),MHG,MF,Yes,Outperform MSCI World Net Total Return Index (hedged to AUD),1.35,Yes,10-Aug-15,,Recent
+VanEck Vectors Morningstar Wide Moat ETF,MOAT,ETF,No,Track Morningstar® Wide Moat Focus IndexTM,0.49,No,26-Jun-15,,Recent
+Montgomery Global Equities Fund (Managed Fund),MOGL,MF,Yes,Outperform the MSCI World Net Total Return Index in AUD,1.32,Yes,20-Dec-17,,Recent
+Morningstar International Shares Active ETF (Managed Fund),MSTR,Active ETF,No,MSCI All Country World ex-Australia Index with Net Dividends Reinvested (Hedged into AUD),0.39,No,12-Nov-19,,Recent
+Betashares NASDAQ 100 ETF,NDQ,ETF,No,Track NASDAQ-100 Index,0.48,No,26-May-15,,Recent
+Platinum International Fund (Quoted Managed Hedge Fund),PIXX,MF,Yes,Outperform MSCI All Country World Net Index in $A,1.1,Yes,14-Sep-17,,Recent
+BetaShares FTSE RAFI US 1000 ETF,QUS,ETF,No,Track FTSE RAFI U.S. 1000 Index ,0.4,No,19-Dec-14,,Recent
+SPDR S&P 500 ETF Trust,SPY,ETF,No,Track S&P 500 Index,0.0945,No,13-Oct-14,,Recent
+Vanguard All-World ex-U.S. Shares Index ETF,VEU,ETF,No,Track FTSE All-World ex US Index,0.09,No,8-May-09,,Recent
+Vanguard FTSE Europe Shares ETF,VEQ,ETF,No,Track FTSE Developed Europe All Cap Index (with net dividends reinvested) in AUD,0.35,No,11-Dec-15,,Recent
+Vanguard MSCI Index International Shares(Hedged) ETF,VGAD,ETF,No," Track MSCI World ex-Australia (with net dividends reinvested), hedged into AUD Index",0.21,No,20-Nov-14,,Recent
+Vanguard MSCI Index International Series,VGS,ETF,No,Track MSCI World ex-Australia (with net dividends reinvested) in AUD Index,0.18,No,20-Nov-14,,Recent
+Vanguard MSCI International Small Companies Index ETF,VISM,ETF,No,Track MSCI World ex-Australia Small Cap Index,0.32,No,13-Nov-18,,Recent
+Vanguard US Total Market Shares Index ETF,VTS,ETF,No,Track CRSP US Total Market Index,0.03,No,8-May-09,,Recent
+SPDR S&P World Ex Australia (Hedged) Fund ,WXHG,ETF,No,Track S&P Developed ex Australia LargeMidCap AUD Hedged Index,0.35,No,9-Jul-13,,Recent
+SPDR S&P World Ex Australia Fund ,WXOZ,ETF,No,Track S&P Developed ex Australia LargeMidCap AUD Index,0.3,No,19-Mar-13,,Recent
+Equity - Asia ,,,,,,,,,
+BetaShares Asia Technology Tigers ETF,ASIA,ETF,No,Track Solactive Asia Ex-Japan Technology & Internet Tigers Index,0.67,No,21-Sep-18,,Recent
+VanEck Vectors FTSE China A50 ETF,CETF,ETF,No,Track FTSE China A50 Index,0.6,No,26-Jun-15,,Recent
+VanEck Vectors China New Economy ETF,CNEW,ETF,No,Track CSI MarketGrader China New Economy Index (AUD),0.95,No,9-Nov-18,,Recent
+BetaShares Japan ETF - Currency Hedged,HJPN,ETF,No,Track S&P Japan Exporters Hedged AUD Index,0.56,No,12-May-16,,Recent
+iShares Asia 50 ETF,IAA,ETF,No,Track the S&P Asia 50 Index,0.5,No,10-Sep-08,,Recent
+BetaShares India Quality ETF,IIND,ETF,No,Track Solactive India Quality Select Index NTR,0.8,No,6-Aug-19,,Recent
+iShares MSCI South Korea ETF,IKO,ETF,No,Track MSCI Korea 25/50 Index,0.59,No,15-Nov-07,,Recent
+iShares MSCI Taiwan ETF ,ITW,ETF,No,Track MSCI Taiwan 25/50 Index,0.59,No,15-Nov-07,,Recent
+iShares China Large-Cap ETF,IZZ,ETF,No,Track FTSE China 50 Index,0.74,No,15-Nov-07,,Recent
+ETFS Reliance India NIFTY 50 ETF,NDIA,ETF,No,Track NSE NIFTY 50 Index,1,No,21-Jun-19,,Recent
+Platinum Asia Fund (Quoted Managed Hedge Fund),PAXX,MF,Yes,Outperforms the MSCI AC Asia ex-Japan Net Index (A$),1.58,Yes,14-Sep-17,,Recent
+Vanguard FTSE Asia Ex-Japan Shares Index ETF,VAE,ETF,No,"Track FTSE Asia Pacific ex Japan, Australia and New Zealand Net Index in AUD",0.4,No,11-Dec-15,,Recent
+Equity - Emerging Markets,,,,,,,,,
+VanEck Emerging Income Opportunities Active ETF (Managed Fund),EBND,MF,No,Actively managed unconstrained strategy investing predominantly in bonds in emerging markets,0.95,No,13-Feb-20,,Recent
+VanEck Vectors MSCI Multifactor Emerging Markets Equity ETF,EMKT,ETF,No,Track MSCI Emerging Markets Diversified Multiple-Factor Index (AUD),0.69,No,12-Apr-18,,Recent
+BetaShares Legg Mason Emerging Markets Fund (Managed Fund),EMMG,MF,Yes,Outperform MSCI Emerging Markets Index,1,No,6-Jun-19,,Recent
+iShares MSCI Emerging Markets ETF,IEM,ETF,No,Track MSCI Emerging Markets Index ,0.67,No,10-Oct-07,,Recent
+Fidelity Global Emerging Markets Fund (Managed Fund),FEMX,MF,Yes,Outperform MSCI Emerging Markets Index NR,0.99,No,5-Nov-18,,Recent
+Vanguard FTSE Emerging Markets Shares,VGE,ETF,No,Track FTSE Emerging Markets All Cap China A Inclusion Index (with net dividends reinvested) in AUD,0.48,No,21-Nov-13,,Recent
+SPDR S&P Emerging Markets Fund,WEMG,ETF,No,Track S&P Emerging Markets Large Mid Cap Index,0.65,No,4-Nov-13,,Recent
+Equity - Global Sectors,,,,,,,,,
+ETFS Battery Tech & Lithium ETF,ACDC,ETF,No,Track Solactive Battery Value-Chain Index,0.82,No,3-Sep-18,,Recent
+BetaShares Global Banks ETF - Currency Hedged,BNKS,ETF,No,Track NASDAQ Global ex-Australia Banks Hedged AUD Index,0.57,No,1-Aug-16,,Recent
+ETFS S&P Biotech ETF,CURE,ETF,No,Track S&P Biotechnology Select Industry Index,0.45,No,12-Nov-18,,Recent
+BetaShares Global Healthcare ETF - Currency Hedged,DRUG,ETF,No,Track NASDAQ Global ex-Australia Healthcare Hedged AUD Index,0.57,No,8-Aug-16,,Recent
+ETFS Fang+ ETF,FANG,ETF,No,Tracks NYSE Rang+ Index,0.35,No,02-03-200,,Recent
+BetaShares Global Agriculture Companies ETF - Currency Hedged,FOOD,ETF,No,Track NASDAQ Global ex-Australia Agriculture Companies Hedged AUD Index,0.57,No,4-Aug-16,,Recent
+BetaShares Global Energy Companies ETF - Currency Hedged,FUEL,ETF,No,Track NASDAQ Global ex-Australia Energy Hedged AUD Index,0.57,No,20-Jun-16,,Recent
+VanEck Vectors Gold Miners ETF,GDX,ETF,No,Track NYSE Arca Gold Miners Index,0.53,No,26-Jun-15,,Recent
+BetaShares Global Cybersecurity ETF,HACK,ETF,No,Track NASDAQ Consumer Technology Association Cybersecurity Index,0.67,No,1-Sep-16,,Recent
+iShares Global Consumer Staples ETF,IXI,ETF,No,Track S&P Global 1200 Consumer Staples Sector Capped Index,0.47,No,11-Mar-09,,Recent
+iShares Global Healthcare ETF,IXJ,ETF,No,Track S&P Global 1200 Healthcare Sector Index,0.47,No,11-Mar-09,,Recent
+BetaShares Global Gold Miners ETF - Currency Hedged,MNRS,ETF,No,Track NASDAQ Global ex-Australia Gold Miners Hedged AUD Index,0.57,No,29-Jul-16,,Recent
+BetaShares Global Robotics and Artificial Intelligence ETF,RBTZ,ETF,No,Track Indxx Global Robotics & Artificial Intelligence Thematic Index,0.57,No,14-Sep-18,,Recent
+ETFS ROBO Global Robotics and Automation ETF,ROBO,ETF,No,Track ROBO Global® Robotics and Automation Index,0.82,No,14-Sep-17,,Recent
+ETFS Morningstar Global Technology ETF,TECH,ETF,No,Track Morningstar Developed Markets Tecnology Moat Focus Index,0.45,No,11-Apr-17,,Recent
+Equity - Global Strategy,,,,,,,,,
+BetaShares US Equities Strong Bear Currency Hedged (Hedge Fund),BBUS,MF,No,Benchmarked against S&P 500 Total Return Index,1.38,No,26-Aug-15,,Recent
+,,,,,,,,,
+,,Inverse/,,,,,,,
+,,Leverage,,,,,,,
+VanEck Vectors MSCI International Sustainable Equity ETF,ESGI,ETF,No,Track MSCI World ex Australia ex Fossil Fuel Select SRI and Low Carbon Capped Index,0.55,No,8-Mar-18,,Recent
+BetaShares Global Sustainability Leaders ETF,ETHI,ETF,No,Track NASDAQ Future Global Sustainability Leaders Index,0.59,No,9-Jan-17,,Recent
+BetaShares Geared US Equity Fund - Currency Hedged (Hedge Fund),GGUS,MF,No,Benchmarked against S&P 500 Index,0.8,No,18-Aug-15,,Recent
+,,Leverage,,,,,,,
+BetaShares Global Quality Leaders ETF - Currency Hedged,HQLT,ETF,No,Track iSTOXX MUTB Global ex-Australia Quality Leaders Index AUD Hedged,0.38,No,10-Jun-20,,Recent
+BetaShares Global Income Leaders ETF,INCM,ETF,No,Track NASDAQ Global Income Leaders NTR Index,0.45,No,22-Oct-18,,Recent
+Montaka Global Extension Fund (Quoted Managed Hedge Fund),MKAX,MF,Yes,-,1.25,Yes,24-Jun-20,,Recent
+Vaneck Vectors MSCI World ex-Australia Quality (Hedged) ETF,QHAL,ETF,No,Track MSCI World ex Australia Quality 100% Hedged to AUD Index,0.43,No,25-Mar-19,,Recent
+BetaShares Global Quality Leaders ETF,QLTY,ETF,No,Track iSTOXX MUTB Global ex-Australia Quality Leaders Index ,0.35,No,7-Nov-18,,Recent
+SPDR MSCI World Quality Mix Fund,QMIX,ETF,No,Track MSCI World Factor Mix A-Series Index,0.4,No,14-Sep-15,,Recent
+VanEck Vectors MSCI World ex-Australia Quality ETF,QUAL,ETF,No,Track MSCI World ex Australia Quality Index,0.4,No,31-Oct-14,,Recent
+Betashares S&P500 Yield Maximiser Fund (Managed Fund),UMAX,MF,No,Benchmarked against S&P 500 Index,0.79,No,19-Sep-14,,Recent
+,,Options,,,,,,,
+Vanguard Ethically Conscious International Shares Index ETF,VESG,ETF,No,"Track FTSE Developed ex-Australia ex-Non-renewable energy, Vice Products and Weapons Index (with net dividends reinvested) in Australian dollars",0.18,No,13-Sep-18,,Recent
+Vanguard Global Multi-Factor Active ETF (Managed Fund),VGMF,Active ETF,No,Outperform FTSE Developed All Cap Index (with net dividends reinvested) in Australian dollars,0.33,No,10-Apr-19,,Recent
+Vanguard Global Minimum Volatility Active ETF (Managed Fund),VMIN,Active ETF,No,Outperform FTSE Global All Cap Index (AUD Hedged),0.28,No,17-Apr-18,,Recent
+Vanguard Global Value Equity Active ETF (Managed Fund),VVLU,Active ETF,No,Outperform FTSE Developed All-Cap in Australian dollars Index,0.28,No,17-Apr-18,,Recent
+WCM Quality Global Growth Fund (Quoted Managed Fund),WCMQ,MF,Yes,"Outperform MSCI All Country World Index (ex-Australia) with gross dividends reinvested, reported in AUD and unhedged",1.25,Yes,3-Sep-18,,Recent
+SPDR S&P Global Dividend Fund,WDIV,ETF,No,Track S&P Global Dividend Aristocrats Index,0.5,No,4-Nov-13,,Recent
+iShares Edge MSCI World Multifactor ETF,WDMF,ETF,No,Track MSCI World Diversified Multiple-Factor (AUD) Index,0.35,No,14-Oct-16,,Recent
+BetaShares Managed Risk Global Share Fund (Managed Fund),WRLD,MF,No,-,0.54,No,21-Dec-15,,Recent
+iShares Edge MSCI World Minimum Volatility ETF,WVOL,ETF,No,Track MSCI World Minimum Volatility (AUD) Index,0.3,No,14-Oct-16,,Recent
+ETFS S&P 500 High Yield Low Volatility ETF,ZYUS,ETF,No,Track S&P 500 Low Volatility High Dividend Index,0.35,No,12-Jun-15,,Recent
+Equity - Infrastructure,,,,,,,,,
+ETFS Global Core Infrastructure ETF,CORE,ETF,No,Track Solactive Global Core Infrastructure Low Volatility Index,0.55,No,20-Sep-17,,Recent
+AMP Global Infrastructure Securities Fund (Managed Fund),GLIN,MF,Yes,Outperform Dow Jones Brookfield Global Infrastructure Index AUD,0.94,Yes,6-Jun-16,,Recent
+VanEck Vectors FTSE Global Infrastructure (Hedged) ETF,IFRA,ETF,No,Track FTSE Developed Core Infrastructure 50/50 hedged into AUD Index,0.52,No,3-May-16,,Recent
+Magellan Infrastructure Fund (Currency Hedged) (Managed Fund),MICH,MF,Yes,Outperform S&P Global Infrastructure Index A$ Hedged Net Total Return,1.05,Yes,22-Jul-16,,Recent
+Vanguard Global Infrastructure Index ETF,VBLD ,ETF,No,Track FTSE Developed Core Infrastructure Index (with net diviends reinvested)(AUD),0.47,No,23-Oct-18,,Recent
+Property - Australia,,,,,,,,,
+VanEck Vectors Australian Property ETF,MVA,ETF,Yes,Track MVIS Australia A-REITs Index,0.35,No,16-Oct-13,,Recent
+,,,ASX:YMVA,,,,,,
+BetaShares Legg Mason Real Income Fund (Managed Fund),RINC,MF,Yes,Outperform S&P/ASX 200 Index,0.85,No,19-Feb-18,,Recent
+SPDR S&P/ASX 200 Listed Property Fund,SLF,ETF,Yes,Track S&P/ASX 200 A-REIT Index,0.4,No,18-Feb-02,,Recent
+,,,ASX:YSLF,,,,,,
+Vanguard Australian Property Securities Index ETF,VAP,ETF,Yes,Track S&P/ASX 300 A-REIT Index,0.23,No,15-Oct-10,,Recent
+Property - Global,,,,,,,,,
+SPDR Dow Jones Global Real Estate Fund,DJRE,ETF,No,Track Dow Jones Global Select Real Estate Securities Index,0.5,No,4-Nov-13,,Recent
+VanEck Vectors FTSE International Property (Hedged) ETF,REIT,ETF,No,Track FTSE EPRA Nareit Developed ex Australia Rental Index AUD Hedged,0.43,No,2-Apr-19,,Recent
+AMP Capital Global Property Securities Fund (Managed Fund),RENT,MF,Yes,Outperform FTSE EPRA/NAREIT Developed Index AUD Net TR,0.99,No,6-Jun-16,,Recent
+Currency,,,,,,,,,
+BetaShares Strong Australian Dollar Fund (hedge fund),AUDS,MF,Yes,Geared exposure to the value of the change in AUD relative to the USD,1.38,No,24-Jan-17,,Recent
+,,Inverse/,,,,,,,
+,,Leverage,,,,,,,
+BetaShares Euro ETF,EEU,ETF,Yes,Euro,0.45,No,11-Jul-11,,Recent
+BetaShares British Pound ETF,POU,ETF,Yes,British Pound,0.45,No,11-Jul-11,,Recent
+BetaShares U.S. Dollar ETF,USD,ETF,Yes,US Dollar,0.45,No,1-Feb-11,,Recent
+BetaShares Strong U.S. Dollar Fund (hedge fund),YANK,MF,Yes,Geared exposure to the value of the change in USD relative to the AUD,1.38,No,24-Jan-17,,Recent
+,,Inverse/,,,,,,,
+,,Leverage,,,,,,,
+ETFS Enhanced USD Cash ETF,ZUSD,ETF,No,US Dollar,0.3,No,12-Jun-15,,Recent
+Fixed Income - Australian Dollar,,,,,,,,,
+BetaShares Australian Government Bond ETF,AGVT,ETF,No,Track Solactive Australian Government 7-12 Year AUD TR Index,0.22,No,9-Jul-19,,Recent
+BetaShares Legg Mason Australian Bond Fund (Managed Fund),BNDS,MF,No,Outperform Bloomberg AusBond Composite Index ,0.42,No,16-Nov-18,,Recent
+SPDR S&P/ASX Australian Bond Fund,BOND,ETF,No,Track S&P/ASX Australian Fixed Interest Index,0.24,No,27-Jul-12,,Recent
+BetaShares Australian Investment Grade Corporate Bond ETF,CRED,ETF,No,Track Solactive Australian Investment Grade Corporate Bond Select TR Index ,0.25,No,4-Jun-18,,Recent
+VanEck Vectors Australian Floating Rate ETF,FLOT,ETF,No,Track Bloomberg AusBond Credit FRN 0+ Yr Index ,0.22,No,7-Jul-17,,Recent
+SPDR S&P/ASX Australian Government Bond Fund ,GOVT,ETF,No,Track S&P/ASX Government Bond Index,0.22,No,27-Jul-12,,Recent
+BetaShares Active Australian Hybrids Fund (Managed Fund),HBRD,MF,Yes,Outperform Solactive Australian Hybrid Securities Index,0.55,Yes,17-Nov-17,,Recent
+iShares Core Composite Bond ETF,IAF,ETF,No,Track Bloomberg AusBond Composite Index,0.15,No,14-Mar-12,,Recent
+iShares Core Corporate Bond ETF,ICOR,ETF,No,Bloomberg AusBond Credit 0+ Yr Index,0.15,No,29-May-20,,Recent
+iShares Government Inflation ETF,ILB,ETF,No,Track Bloomberg AusBond Inflation Government 0+Yr Index,0.18,No,14-Mar-12,,Recent
+iShares Yield Plus ETF,IYLD,ETF,No,Bloomberg AusBond Credit and FRN Ex 4 Banks Index,0.12,No,29-May-20,,Recent
+iShares Treasury ETF,IGB,ETF,No,Track Bloomberg AusBond Treasury 0+ Yr Index,0.18,No,14-Mar-12,,Recent
+VanEck Vectors Australian Corporate Bond Plus ETF,PLUS,ETF,No,Track Markit iBoxx AUD Corporates Yield Plus Index ,0.32,No,9-May-17,,Recent
+BetaShares Australian Bank Senior Floating Rate Bond ETF,QPON,ETF,No,Track Solactive Australian Bank Senior Floating Rate Bond Index,0.22,No,6-Jun-17,,Recent
+Russell Investments Australian Government Bond ETF,RGB,ETF,No,Track DBIQ 5-10 year Australian Government Bond Index ,0.24,No,13-Mar-12,,Recent
+Russell Investments Australian Semi-Government Bond ETF ,RSM,ETF,No,Track DBIQ 0-5 years Australian Semi-Government Bond index,0.26,No,13-Mar-12,,Recent
+Russell Investments Australian Select Corporate Bond ETF  ,RCB,ETF,No,Track DBIQ 0-4 year Investment Grade Australian Corporate Bond Index ,0.28,No,13-Mar-12,,Recent
+VanEck Vectors Australian Subordinated Debt ETF,SUBD,ETF,No,Track the iBoxx AUD Investment Grade Subordinated Debt Index,0.29,No,30-Oct-19,,Recent
+Vanguard Australian Corporate Fixed Interest Index ETF,VACF,ETF,Yes,Track Bloomberg AusBond Credit 0+ Yr Index ,0.26,No,25-May-16,,Recent
+Vanguard Australian Fixed Interest Index ETF ,VAF,ETF,Yes,Track Bloomberg AusBond Composite 0+ Yr Index ,0.2,No,31-Oct-12,,Recent
+Vanguard Australian Government Bond Index ETF,VGB,ETF,Yes,Track Bloomberg AusBond Govt 0+ Yr Index,0.2,No,30-Apr-12,,Recent
+Fixed Income - Global,,,,,,,,,
+BetaShares Sustainability Leaders Diversified Bond ETF - Currency Hedged ,GBND,ETF,No,Solactive Australian and Global Select Sustainability Leaders Bond TR Index - AUD Hedged ,0.49,No,28-Nov-19,,Recent
+BetaShares Global Government Bond 20+ Year ETF - Currency Hedged,GGOV,ETF,No,S&P G7 Sovereign Duration-Capped 20+ Year AUD Hedged Bond Index,0.22,No,11-May-20,,Recent
+iShares Core Global Corporate Bond (AUD Hedged) ETF,IHCB,ETF,No,Track Bloomberg Barclays Global Aggregate Corporate Bond Index (AUD Hedged),0.26,No,9-Dec-15,,Recent
+iShares J.P. Morgan USD Emerging Markets Bond (AUD Hedged) ETF,IHEB,ETF,No,Track .P. Morgan EMBI Global Core Index (AUD Hedged),0.51,No,9-Dec-15,,Recent
+iShares Global High Yield Bond (AUD Hedged) ETF,IHHY,ETF,No,Track Markit iBoxx Global Developed Markets Liquid High Yield Capped Index (AUD Hedged),0.56,No,9-Dec-15,,Recent
+Vanguard Global Aggregate Bond Index (Hedged) ETF,VBND,ETF,No,Track Bloomberg Barclays Global Aggregate Float-Adjusted and Scaled Index hedged into Australian dollars ,0.2,No,12-Oct-17,,Recent
+Vanguard International Credit Securities Index (Hedged) ETF,VCF,ETF,No,Track Barclays Global Aggregate Governement related and Corporate Index hedged into Australian dollars,0.3,No,8-Dec-15,,Recent
+Vanguard Ethically Conscious Global Aggregate Bond Index (hedged) ETF,VEFI,ETF,No,Track Bloomberg Barclays MSCI Global Aggregate SRI Exclusion Float Adjusted Hedged into AUD Index,0.26,No,13-Sep-18,,Recent
+Vanguard International Fixed Interest Index (Hedged) ETF,VIF,ETF,No,Track Bloomberg Barclays Global Treasury Scaled Index hedged into AUD ,0.2,No,8-Dec-15,,Recent
+ActiveX Ardea Real Outcome Bond Fund (Managed Fund),XARO,MF,No,Outperform RBA Inflation rate (Consumer Price Index),0.5,No,10-Dec-18,,Recent
+Cash,,,,,,,,,
+BetaShares Australian High Interest Cash ETF ,AAA,ETF,Yes,Outperform BBSW ,0.18,No,7-Mar-12,,Recent
+iShares Core Cash ETF,BILL,ETF,No,Track S&P/ASX Bank Bill Index,0.07,No,6-Jun-17,,Recent
+iShares Enhanced Cash ETF,ISEC,ETF,No,Outperform S&P/ASX Bank Bill Index,0.12,No,6-Jun-17,,Recent
+Mixed Asset ,,,,,,,,,
+AMP Capital Dynamic Markets Fund (Hedge Fund),DMKT,MF,Yes,Outperform RBA Inflation rate (Consumer Price Index) - trimmed mean + 4.5% pa.,0.61,Yes,3-Aug-16,,Recent
+BetaShares Diversified High Growth ETF,DHHF,ETF,No,"Aims to passively blend the returns of the index-tracking Underlying ETFs in which the Fund invests to get exposure to the asset classes, in proportion to the Fund's strategic asset allocation",0.26,No,5-Dec-19,,Recent
+BetaShares Diversified Growth ETF,DGGF,ETF,No,"Aims to passively blend the returns of the index-tracking Underlying ETFs in which the Fund invests to get exposure to the asset classes, in proportion to the Fund's strategic asset allocation",0.26,No,9-Dec-19,,Recent
+BetaShares Diversified Balanced ETF,DBBF,ETF,No,"Aims to passively blend the returns of the index-tracking Underlying ETFs in which the Fund invests to get exposure to the asset classes, in proportion to the Fund's strategic asset allocation",0.26,No,11-Dec-19,,Recent
+BetaShares Diversified Conservative Income ETF,DZZF,ETF,No,"Aims to passively blend the returns of the index-tracking Underlying ETFs in which the Fund invests to get exposure to the asset classes, in proportion to the Fund's strategic asset allocation",0.26,No,12-Dec-19,,Recent
+Schroders Real Return Fund (Managed Fund),GROW,MF,Yes,RBA Inflation rate (Consumer Price Index) - trimmed mean + 5% pa.,0.9,No,16-Aug-16,,Recent
+Vanguard Diversified Conservative Index ETF,VDCO,ETF,No,"Seeks to track the weighted average return of the various indices of the underlying funds in which each ETF invests, in proportion to the Strategic Asset Allocation (SAA) for the ETF.",0.27,No,22-Nov-17,,Recent
+Vanguard Diversified Balanced Index ETF,VDBA,ETF,No,"Seeks to track the weighted average return of the various indices of the underlying funds in which each ETF invests, in proportion to the Strategic Asset Allocation (SAA) for the ETF.",0.27,No,22-Nov-17,,Recent
+Vanguard Diversified ,VDGR,ETF,No,"Seeks to track the weighted average return of the various indices of the underlying funds in which each ETF invests, in proportion to the Strategic Asset Allocation (SAA) for the ETF.",0.27,No,22-Nov-17,,Recent
+Growth Index ETF,,,,,,,,,
+Vanguard Diversified ,VDHG,ETF,No,"Seeks to track the weighted average return of the various indices of the underlying funds in which each ETF invests, in proportion to the Strategic Asset Allocation (SAA) for the ETF.",0.27,No,22-Nov-17,,Recent
+High Growth Index ETF,,,,,,,,,
+Commodity,,,,,,,,,
+ETFS Physical Precious Metal Basket,ETPMPM,SP,No,Basket of precious metals,0.44,No,30-Jan-09,,Recent
+ETFS Physical Platinum,ETPMPT,SP,No,Platinum,0.49,No,30-Jan-09,,Recent
+ETFS Physical Silver,ETPMAG,SP,No,Silver,0.49,No,30-Jan-09,,Recent
+ETFS Physical Palladium,ETPMPD,SP,No,Palladium,0.49,No,30-Jan-09,,Recent
+ETFS Physical Gold,GOLD,Redeemable preference share,Yes,Gold,0.4,No,28-Mar-03,,Recent
+BetaShares Crude Oil Index ETF- Currency Hedged (Synthetic),OOO,ETF,Yes,S&P GSCI Crude Oil Index Excess Return (Hedged into A$),0.69,No,16-Nov-11,,Recent
+Perth Mint Gold,PMGOLD,SP,No,Gold,0.15,No,29-Dec-10,,Recent
+BetaShares Agricultural ETF - Currency Hedged (Synthetic),QAG,ETF,Yes,S&P GSCI Agriculture Enhanced Select Index Excess Return (Hedged into A$),0.69,No,2-Dec-11,,Recent
+BetaShares Gold Bullion ETF - Currency Hedged,QAU,ETF,Yes,Gold,0.49,No,4-May-11,,Recent
+BetaShares Commodities Basket ETF - Currency Hedged (Synthetic),QCB,ETF,Yes,S&P GSCI Light Energy Index Excess Return (Hedged into A$),1.29,No,15-Dec-11,,Recent
